@@ -1,4 +1,5 @@
-# Manjaro Waydroid Manager
+# Manjaro Waydroid Manager   
+# (  Compatible with Pinephone Pro / Manjaro Arm  )
 Manjaro Waydroid Manager is a CLI program for installing and managing Waydroid on Manjaro Arm on the Pinephone Pro.
 
 How to download and use:
