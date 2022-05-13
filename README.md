@@ -7,7 +7,7 @@ With git clone:
 
 git clone https://github.com/MadameMalady/Manjaro-Waydroid-Manager
 
-cd Manjaro-Waydroid Manager
+cd Manjaro-Waydroid-Manager
 
 chmod +x MWM.sh
 
