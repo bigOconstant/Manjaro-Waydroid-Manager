@@ -33,7 +33,7 @@ The current implemented features are:
 
 -Installation options for both waydroid-gapps and standard waydroid
 
--Video Mode toggles for software of gpu-based rendering
+-Video Mode toggles for software or gpu-based rendering
 
 -Uninstall Waydroid
 
