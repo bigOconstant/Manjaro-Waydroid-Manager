@@ -1,4 +1,4 @@
-# PinePhone-Pro-Waydroid-helper-script
+# Manjaro Waydroid Manager
 This is a script / project to make using waydroid on Pinephone / Pinephone Pro as painless as humanly possible.
 
 How to download and use:
