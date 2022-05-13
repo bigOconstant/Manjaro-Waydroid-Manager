@@ -1,27 +1,33 @@
 # Manjaro Waydroid Manager
-This is a script / project to make using waydroid on Pinephone / Pinephone Pro as painless as humanly possible.
+Manjaro Waydroid Manager is a CLI program for installing and managing Waydroid on Manjaro Arm on the Pinephone Pro.
 
 How to download and use:
-  Download the PinePhone-Pro-Waydroid-Installation-Script.sh file under 'releases'
-  cd to where you downloaded it to
-  chmod +x PinePhone-Pro-Waydroid-Installation-Script.sh
-  ./PinePhone-Pro-Waydroid-Installation-Script.sh
-  Enjoy
+
+With git clone:
+git clone https://github.com/MadameMalady/Manjaro-Waydroid-Manager
+cd Manjaro-Waydroid Manager
+chmod +x MWM.sh
+./MWM.sh
+    
+From the 'Releases' page:
+Download the latest release from the 'Releases'page (  The MWM.sh file  )
+cd in terminal to where you downloaded MWM.sh , this will typically be in /Downloads
+chmod +x MWM.sh
+./MWM.sh
+    
 
 The current implemented features are:
-
--automation of dependencies installation
--automation of waydroid installation
--toggling video acceleration off
--toggling video acceleration on (partially works, ie, ui speedups, games are still jittery)
--uninstall waydroid
--restart waydroid
+  -Automated dependencies installation
+  -Installation options for both waydroid-gapps and standard waydroid
+  -Video Mode toggles for software of gpu-based rendering
+  -Uninstall Waydroid
+  -Restart Waydroid
+  -Install all .apk files in /Downloads automatically
+  -Restart the 'non-gapps'image with the -s --gapps tag (helpful for getting past google play warnings in some games
 
 
 
 WIP features include:
 
--automation of apk installation through Waydroid Package Manager
 -Automation of custom rom creation for waydroid
--toggle app.desktop view on / off for individual apps.
--toggle video acceleration 'on' and have full opengl es / vulkan rendering (decided via an option in script)
+-toggle .desktop view on / off for individual apps (You can currently do this manuely with 'Desktopius' from the elementary os flatpak repo.
