@@ -50,4 +50,6 @@ WIP features include:
 
 -Automation of custom rom creation for waydroid
 
+-Downloading more up-to-date system and vendor images from Sourceforge.
+
 -toggle .desktop view on / off for individual apps (You can currently do this manuely with 'Desktopius' from the elementary os flatpak repo.
