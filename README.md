@@ -34,6 +34,8 @@ The current implemented features are:
 
 -Installation options for both waydroid-gapps and standard waydroid
 
+-Grab the system.img vendor.img from Sourceforge (optional)
+
 -Video Mode toggles for software or gpu-based rendering
 
 -Uninstall Waydroid
@@ -50,6 +52,7 @@ WIP features include:
 
 -Automation of custom rom creation for waydroid
 
--Downloading more up-to-date system and vendor images from Sourceforge.
-
 -toggle .desktop view on / off for individual apps (You can currently do this manuely with 'Desktopius' from the elementary os flatpak repo.
+
+-Check Installation statuses for Waydroid, Waydroid-img, and system and vendor.img's.
+(This is what waydroid_checker.sh is for).
