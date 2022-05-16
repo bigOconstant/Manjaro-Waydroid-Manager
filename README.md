@@ -46,6 +46,9 @@ The current implemented features are:
 
 -Restart the 'non-gapps'image with the -s --gapps tag (helpful for getting past google play warnings in some games
 
+-Check Installation statuses for Waydroid, Waydroid-img, and system and vendor.img's.
+(This is what waydroid_checker.sh is for).
+
 
 
 WIP features include:
@@ -53,6 +56,3 @@ WIP features include:
 -Automation of custom rom creation for waydroid
 
 -toggle .desktop view on / off for individual apps (You can currently do this manuely with 'Desktopius' from the elementary os flatpak repo.
-
--Check Installation statuses for Waydroid, Waydroid-img, and system and vendor.img's.
-(This is what waydroid_checker.sh is for).
